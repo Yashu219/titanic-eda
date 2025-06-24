@@ -24,6 +24,11 @@ Perform Exploratory Data Analysis (EDA) to understand the dataset and identify p
 - Survival rate is higher in 1st class than in 3rd class
 - Strong correlation exists between `Pclass` and `Fare`
 
+### Sample Visualization
+
+![Age Distribution](figure1.png)
+
+
 ### Dataset Source
 [Titanic Dataset – Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 
