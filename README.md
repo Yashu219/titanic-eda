@@ -26,7 +26,7 @@ Perform Exploratory Data Analysis (EDA) to understand the dataset and identify p
 
 ### Sample Visualization
 
-![Age Distribution](figure1.png)
+![Age Distribution](Figure_1.png)
 
 
 ### Dataset Source
