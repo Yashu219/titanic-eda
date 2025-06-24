@@ -29,6 +29,13 @@ Perform Exploratory Data Analysis (EDA) to understand the dataset and identify p
 ![Age Distribution](Figure_1.png)
 
 
+
+- Filled missing Age values with median
+- Filled missing Embarked values with mode
+- Ignored Cabin column due to high missing percentage
+
+
+
 ### Dataset Source
 [Titanic Dataset – Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 
